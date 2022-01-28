@@ -1,3 +1,4 @@
+install minikube as root user
 
 sudo apt-get update
 
