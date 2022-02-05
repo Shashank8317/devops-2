@@ -1,4 +1,4 @@
-install minikube as root user
+Please note : install minikube as root user and not as regular user
 
 sudo apt-get update
 
